@@ -15,4 +15,4 @@ curl localhost:3000 -X POST --data-binary "@clem-onojeghuo-picture.jpg"  > clem-
 
 # Credits
 
-I just wrote a small service that does whatever @medatech [wrote on his tweet](https://twitter.com/Martin_Adams/status/918481838347292678) did.
+I just wrote a small service that does whatever [@medatech](https://github.com/medatech) [wrote on his tweet](https://twitter.com/Martin_Adams/status/918481838347292678) did.
